@@ -1,0 +1,7 @@
+path: C:\Users\admin\PycharmProjects\antispoofing\pythonProject\Dataset\SplitData
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 2
+names: ['fake', 'real']
